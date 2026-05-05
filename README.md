@@ -120,6 +120,11 @@ Retention by Customer Segment
 
 ![Retention by Customer Segment](https://github.com/sejaln123/Customer_Segmentation_-_Retention_Strategy_using_RFM_Analysis/blob/main/Retention%20by%20Customer%20Segment.png)
 
+Heatmap for numeric values
+
+
+![Heatmap for numeric values](https://github.com/sejaln123/Customer_Segmentation_-_Retention_Strategy_using_RFM_Analysis/blob/main/Heatmap%20for%20numeric%20values.png)
+
 
 ## Project Structure
 customer_project/
