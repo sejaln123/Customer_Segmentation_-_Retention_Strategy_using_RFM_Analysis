@@ -109,7 +109,16 @@ Purchase frequency significantly impacts retention
 
 
 ## Visualizations
+Customer_Segments_Distribution
 
+
+![Customer Segments Distribution](https://raw.githubusercontent.com/sejaln123/Customer_Segmentation_-_Retention_Strategy_using_RFM_Analysis/main/Customer_Segments_Distribution.png)
+
+
+Retention by Customer Segment
+
+
+![Retention by Customer Segment](https://github.com/sejaln123/Customer_Segmentation_-_Retention_Strategy_using_RFM_Analysis/blob/main/Retention%20by%20Customer%20Segment.png)
 
 
 ## Project Structure
